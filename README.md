@@ -3,8 +3,8 @@
 # Anomaly Detection
 Anomaly Detection using LSTM autoencoders.
 
-## Anomaly Detection
-Anomaly detection (also outlier detection) is the identification of rare items, events or observations which raise suspicions by differing significantly from the majority of the data.Typically the anomalous items will translate to some kind of problem such as bank fraud, a structural defect, medical problems or errors in a text. Anomalies are also referred to as outliers, novelties, noise, deviations and exceptions.
+Anomaly detection (also outlier detection) is the identification of rare items, events or observations which raise suspicions by differing significantly from the majority of the data.Typically the anomalous items will translate to some kind of problem. Anomalies are also referred to as outliers, novelties, noise, deviations and exceptions.
+
 Three broad categories of anomaly detection techniques exist. 
 - Unsupervised anomaly detection techniques detect anomalies in an unlabeled test data set under the assumption that the majority of the instances in the data set are normal by looking for instances that seem to fit least to the remainder of the data set. 
 - Supervised anomaly detection techniques require a data set that has been labeled as "normal" and "abnormal" and involves training a classifier. 
