@@ -1,8 +1,7 @@
-<img src="./dataset/rptango_logo1.png" width="264" height="70" align="left"/>
+<img src="./Dataset/rptango_logo1.png" width="264" height="70" align="left"/>
 
 # Anomaly Detection
-
-
+Anomaly Detection using LSTM autoencoders.
 
 ## Anomaly Detection
 Anomaly detection (also outlier detection) is the identification of rare items, events or observations which raise suspicions by differing significantly from the majority of the data.Typically the anomalous items will translate to some kind of problem such as bank fraud, a structural defect, medical problems or errors in a text. Anomalies are also referred to as outliers, novelties, noise, deviations and exceptions.
